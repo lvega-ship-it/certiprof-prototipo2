@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chevron" clip-path="url(#clip0_0_140)">
+<path id="Vector" d="M6 8.5C5.5325 8.5 5.0935 8.318 4.7625 7.9875L0.074 3.342C-0.024 3.245 -0.025 3.086 0.072 2.9885C0.1685 2.8905 0.328 2.8895 0.4255 2.9865L5.115 7.633C5.5895 8.1075 6.411 8.1065 6.8835 7.634L11.574 2.9865C11.671 2.8895 11.8305 2.8905 11.9275 2.9885C12.0245 3.086 12.0235 3.245 11.9255 3.342L7.236 7.9885C6.9065 8.318 6.467 8.5 5.9995 8.5H6Z" fill="#05092D"/>
+</g>
+<defs>
+<clipPath id="clip0_0_140">
+<rect width="12" height="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>
